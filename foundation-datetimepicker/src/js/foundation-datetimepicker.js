@@ -1606,9 +1606,9 @@
 		},
 		headTemplate:     '<thead>' +
 							  '<tr>' +
-							  '<th class="prev"><i class="fi-arrow-left"/></th>' +
+							  '<th class="prev"><i class="fa fa-chevron-left"/></th>' +
 							  '<th colspan="5" class="switch"></th>' +
-							  '<th class="next"><i class="fi-arrow-right"/></th>' +
+							  '<th class="next"><i class="fa fa-chevron-right"/></th>' +
 							  '</tr>' +
 			'</thead>',
 		headTemplateV3:   '<thead>' +
